@@ -13,7 +13,4 @@ npm install
 
 sed -i -e 's/MONGO_DNSNAME/dbhavanibakka.online/' systemd.service
 
-mv /home/roboshop/catalogue/systemd.service /etc/systemd/system/catalogue.service
-systemctl daemon-reload
-systemctl start catalogue
-systemctl enable catalogue
+
