@@ -11,3 +11,4 @@ mv catalogue-main catalogue
 cd /home/learning/catalogue
 npm install
 
+
